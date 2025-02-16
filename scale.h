@@ -1,5 +1,9 @@
 /// @file scale.h
 /// @brief A small package designed to work without the use of STL and dynamic memory allocations that can iterate through a source area over a destination area by scaling the source index appropriately. For instance, this can be used to scale data in a source array to fit a destination array. The algorithm supports multi-dimensional index iteration.
+/// @author github.com/SirJonthe
+/// @date 2025
+/// @copyright Public domain.
+/// @license CC0 1.0
 
 #ifndef CC0_SCALE_H__
 #define CC0_SCALE_H__
